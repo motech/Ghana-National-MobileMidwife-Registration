@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.hamcrest:hamcrest-all:1.1" type="repository">
+    <properties maven-id="org.hamcrest:hamcrest-all:1.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hamcrest-all-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jmock-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/easymock-2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
